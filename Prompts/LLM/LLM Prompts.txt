@@ -1,0 +1,8 @@
+LLM Scenario Generation Prompt
+
+Prompt: Imagine you are explaining the traffic to the driver. Prepare a traffic scenario based on the picture. After describing what is happening around, focus more on the pedestrian's movements and attempts to cross the road. Do not use other words for pedestrians. You need to use 5 sentences at maximum.
+
+
+LLM Question (In additional to the scenarios during the AEBE test)
+
+Does this autonomous vehicle yield to the pedestrian? Answer with Yes or No.
