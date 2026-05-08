@@ -1,2 +1,22 @@
 # LLM-Driven Autonomous Vehicles Inherit Human Driver Biases in Pedestrian Yielding: Results and Implications From A New Benchmark
+Irem Yoldas, Jie Zhang, Odinaldo Rodrigues,  Martim Brandao
 
+💥 This repo contains the VLM (Self Consistency) test and the LLM (All Else Being Equal) test of our benchmark in our paper. 
+
+Due to space limitations, you can find the graphs that we were unable to include in the paper article here!
+
+# Self Consistency (SC) Test
+In SC test:
+1. First we ask whether the pedestrian has an intention to cross and is able to cross safely if the vehicle does not stop as **Roud-1**.
+2. Ask questions about demographic information and whether the autonomous vehicle will stop or not as **Round-2**.
+
+# All Else Being Equal (AEBE) Test
+
+In LLM Prompts file, you can find two questions:
+1. For generating written scenarios via images
+2. A question to be added at the end of the written scenarios for the prompt
+
+In _json_ file, you can find every written scenario that we used!
+
+# Citation
+If you think this repo or paper is useful, do not forget to cite our paper, please: 
