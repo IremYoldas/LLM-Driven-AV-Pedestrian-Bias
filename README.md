@@ -1,6 +1,12 @@
 # LLM-Driven Autonomous Vehicles Inherit Human Driver Biases in Pedestrian Yielding: Results and Implications From A New Benchmark
 Irem Yoldas, Jie Zhang, Odinaldo Rodrigues,  Martim Brandao
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bd0aa0fb-2bc6-476d-a1eb-aec2b1edf323" width="48%" />
+  <img src="https://github.com/user-attachments/assets/2180e530-aeb3-4b59-9016-89cc5bc73b6b" width="48%" />
+</p>
+
+
 💥 This repo contains the VLM (Self Consistency) test and the LLM (All Else Being Equal) test of our benchmark in our paper. 
 
 Due to space limitations, you can find the graphs that we were unable to include in the paper article here!
