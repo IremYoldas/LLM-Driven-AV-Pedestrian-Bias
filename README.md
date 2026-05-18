@@ -1,5 +1,5 @@
 # LLM-Driven Autonomous Vehicles Can Inherit Human Driver Biases in Pedestrian Yielding: Results and Implications From A New Benchmark
-Irem Yoldas, Jie Zhang, Odinaldo Rodrigues,  Martim Brandao
+Irem Yoldas, Jie M. Zhang, Odinaldo Rodrigues,  Martim Brandao
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bd0aa0fb-2bc6-476d-a1eb-aec2b1edf323" width="48%" />
